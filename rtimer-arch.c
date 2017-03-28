@@ -88,4 +88,4 @@ rtimer_arch_now()
   return ti_lib_aon_rtc_current_compare_value_get();
 }
 /*---------------------------------------------------------------------------*/
-/** @} */
+/** @} hello world*/
