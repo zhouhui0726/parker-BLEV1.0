@@ -88,4 +88,8 @@ rtimer_arch_now()
   return ti_lib_aon_rtc_current_compare_value_get();
 }
 /*---------------------------------------------------------------------------*/
+<<<<<<< .merge_file_a22996
 /** @} hello world & you*/
+=======
+/** @} hello world and you */
+>>>>>>> .merge_file_a21280
